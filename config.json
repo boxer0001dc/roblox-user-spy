@@ -1,5 +1,5 @@
 {
-    "webhook": "https://discord.com/api/webhooks",
+    "webhook": "https://discord.com/api/webhooks/1242773539908489300/HV4XcttYEhKrbj7CJB_vLoT1I1cZp1YqtRCJTV_lE8-vEJXmRAzqKhqFRg05mCuZimni",
     "user_ids": {
         "4130644805": {
             "precense_tracker": true,
